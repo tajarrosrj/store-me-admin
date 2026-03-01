@@ -9,8 +9,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173).
-
 ## Features
 
 - **Dashboard** – Totals, low/out of stock counts, stock in/out chart, recent activity
